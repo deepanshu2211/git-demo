@@ -1,4 +1,4 @@
 # git-demo
 This is git demo repo
 <br>
-author - deepanshu
+author - deepanshu kumar
